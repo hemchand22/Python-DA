@@ -1,9 +1,10 @@
-### BAKERY-MANAGEMENT
+# BAKERY-MANAGEMENT
 The provided code is a Python program that simulates a bakery management system for a fictional bakery named HeavenlyBake. It consists of classes and functions to handle customer orders, generate bills, display the menu, manage staff details, and calculate salary-related information. Here is a breakdown of the key components:
 ## Classes:
 ## Staff Class:
-# Attributes: salary, work
-# Methods:
+### Attributes:
+salary, work
+### Methods:
 calculate_salary_hike(): Calculates the salary hike based on the type of work.
 calculate_attendance(num_months): Calculates the number of present and absent days based on attendance percentage.
 calculate_tax(total_amount): Calculates the tax amount based on a fixed percentage.
